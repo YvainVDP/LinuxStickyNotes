@@ -75,7 +75,7 @@ Restart=no
 ```
 
 ```bash
-nano /.bashrc 
+nano ~/.bashrc 
 ```
 #### At the end
 ```
