@@ -35,7 +35,7 @@ You'll surely have to modify the file gamescope-session
 [Download zip](../files/gamescope.zip)
 ## Installation
 ### Information
-The reddit will be much more informative at what all these do
+The reddit post will be much more informative at what all these do
 ### Steps
 #### Install gamescope and mangohud
 ```bash
