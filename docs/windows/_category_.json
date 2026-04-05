@@ -1,0 +1,8 @@
+{
+  "label": "Windows",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Some random notes for windows to work alongside Linux."
+  }
+}
