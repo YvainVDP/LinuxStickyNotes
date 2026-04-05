@@ -25,6 +25,9 @@ And this difference makes that the saves won't be up to date and the steam cloud
 
 Maybe there is a fix to that to tell where the save should be in the Gamescope side or in the desktop side but I don't know yet and I didn't see on the internet if someone has encountered this problem and solved it.
 
+### Update April 4th 2026
+I found [this program](https://github.com/mtkennerly/ludusavi) that help back up and restore to the save file it founds, have not really tried it yet but it seems really good
+
 ## My files
 ### Warning
 You'll surely have to modify the file gamescope-session
