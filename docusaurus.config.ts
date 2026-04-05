@@ -24,6 +24,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yvain', // Usually your GitHub org/user name.
   projectName: 'LinuxStickyNotes', // Usually your repo name.
+  deploymentBranch:'main',
 
   onBrokenLinks: 'throw',
 
