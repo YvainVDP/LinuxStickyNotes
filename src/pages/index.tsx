@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Linux sticky note <head />">
+      description="Linux sticky note">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
